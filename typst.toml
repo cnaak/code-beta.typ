@@ -1,0 +1,11 @@
+[package]
+name = "code-beta"
+version = "0.1.0"
+entrypoint = "code-beta.typ"
+authors = ["Naaktgeboren, C.", ]
+license = "MIT"
+description = "TLG® Beta Code for Typst"
+keywords = ["TLG", "beta-code", "conversion",]
+categories = ["model", "scripting"]
+disciplines = ["linguistics", "philosophy", "history", "classics", "patristics"]
+compiler = "0.14.1"
